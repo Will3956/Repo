@@ -1,6 +1,7 @@
 {
   "outputDirectory": ".",
   "framework": null,
+  "buildCommand": "",
   "routes": [
     { "src": "/api/nas(.*)", "dest": "/api/nas" }
   ]
